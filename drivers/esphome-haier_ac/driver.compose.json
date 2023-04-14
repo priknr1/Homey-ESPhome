@@ -1,0 +1,19 @@
+{
+  "name": {
+    "en": "ESPHome device"
+  },
+  "class": "other",
+  "capabilities": [],
+  "images": {
+    "small": "drivers/esphome-device/assets/images/small.png",
+    "large": "drivers/esphome-device/assets/images/large.png"
+  },
+  "pair": [
+    {
+      "id": "credentials"
+    },
+    {
+      "id": "capabilities"
+    }
+  ]
+}
